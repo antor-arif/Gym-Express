@@ -1,31 +1,14 @@
 === Gym Express ===
-Contributors: steven_gardner
-Requires at least: WordPress 4.0
+Contributors: Md. Arifur Rahman
 Tested up to: 4.8.3
 Version: 0.8.1
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: entertainment, one-column, two-columns, right-sidebar, featured-images, threaded-comments, translation-ready, blog, custom-logo, editor-style, full-width-template, custom-colors, custom-background, theme-options, custom-menu, custom-header, flexible-header
+
 
 == Description ==
 Gym Express is a responsive Fitness, Gym & Sport Club Theme developed for WordPress. This theme has all you need to offer a professional website for your Gym, Fitness Clubs, Crossfit Boxes, Sports & Health Websites, Personal Trainer and any other sports businesses.
 
-For more information about Gym Express please go to http://templateexpress.com/docs/gym-express.
 
-== Copyright ==
 
-Gym Express WordPress Theme, Copyright 2017 Templateexpress.com
-Gym Express is distributed under the terms of the GNU GPL
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
 
 
 == Resources ==
@@ -39,11 +22,9 @@ GNU General Public License for more details.
 * TGM-Plugin-Activation http://tgmpluginactivation.com/, GPL v2 or later
 * Headhesive.js v1.2.3 - An on-demand sticky header, http://markgoodyear.com/labs/headhesive, MIT
 
-== Frequently Asked Questions ==
 
-= Where is the documentation for this theme? =
 
-http://templateexpress.com/docs/gym-express/
+
 
 == Changelog ==
 
